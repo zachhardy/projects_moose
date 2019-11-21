@@ -1,4 +1,6 @@
-Author: Zachary Hardy
+=====> MOOSE PROJECTS 
+
+=====> ZACHARY HARDY
 
 This repository stores custom MOOSE applications.
 
